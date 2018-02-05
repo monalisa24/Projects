@@ -1,0 +1,10 @@
+/home/shital/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.deps.json
+/home/shital/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.runtimeconfig.json
+/home/shital/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.runtimeconfig.dev.json
+/home/shital/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.dll
+/home/shital/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.pdb
+/home/shital/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.csproj.CoreCompileInputs.cache
+/home/shital/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.AssemblyInfoInputs.cache
+/home/shital/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.AssemblyInfo.cs
+/home/shital/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.dll
+/home/shital/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.pdb
